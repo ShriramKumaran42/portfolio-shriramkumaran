@@ -2,6 +2,8 @@ import React from 'react'
 import { CONTACT } from '.'
 import {motion} from "framer-motion"
 import { RiLinkedinBoxFill } from 'react-icons/ri'
+import { RiGithubFill } from 'react-icons/ri'
+
 
 const Contact = () => {
   return (
@@ -30,6 +32,13 @@ const Contact = () => {
 
             <p>
               <div className="mt-8 flex justify-center space-x-0">
+                <a href="https://github.com/ShriramKumaran42"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="contact-icon"
+                aria-label="Visit my Linkedin profile">
+                  <RiGithubFill className="text-3xl"></RiGithubFill>
+                </a>
                 <a href="https://www.linkedin.com/in/shriram-kumaran-9491b32b3"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -39,6 +48,7 @@ const Contact = () => {
                 </a>
 
               </div>
+              
             </p>
 
 

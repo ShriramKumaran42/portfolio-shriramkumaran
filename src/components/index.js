@@ -6,7 +6,7 @@ import anna from "../assets/projects/anna.png";
 import srm from "../assets/projects/srm.png";
 import jv from "../assets/projects/jv.png";
 import jhss from "../assets/projects/jhss.png";
-import resume from "../assets/projects/Shriramkumaran.RnewResume.pdf";
+import resume from "../assets/projects/Shriramkumaran_FrontEnd_Developer-Resume.pdf";
 
 
 
